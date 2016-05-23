@@ -1,0 +1,70 @@
+BIGS906.BAS builds databases of dealer finish probabilities
+for various optional embodiments of the game of the present
+invention and saves the databases to a set of files.
+ 
+BIGS906 PROMPTS FOR INPUT AND USER RESPONSES
+ 
+press 'y' and enter for a standard deck composition 
+
+ 
+enter deck composition 
+ 
+input the number of cards assigned a value of  0  points.
+ 0
+ 
+input the number of cards assigned a value 
+selected from a group consisting of 1 point and 14 points.
+ 4 
+ 
+input the number of cards assigned a value of  2  points.
+ 4 
+ 
+input the number of cards assigned a value of  3  points.
+ 4 
+ 
+input the number of cards assigned a value of  4  points.
+ 4 
+ 
+input the number of cards assigned a value of  5  points.
+ 4 
+ 
+input the number of cards assigned a value of  6  points.
+ 4 
+ 
+input the number of cards assigned a value of  7  points.
+ 4 
+ 
+input the number of cards assigned a value of  8  points.
+ 4 
+ 
+input the number of cards assigned a value of  9  points.
+ 4 
+ 
+input the number of cards assigned a value of  10  points.
+ 4 
+ 
+input the number of cards assigned a value of  11  points.
+ 4 
+ 
+input the number of cards assigned a value of  12  points.
+ 4 
+ 
+input the number of cards assigned a value of  13  points.
+ 4 
+ 
+input the number of cards assigned a value selected from a group consisting 
+of any number of points required to bring the sum of the point values
+assigned to the cards in a hand to twenty-seven points.
+ 2 
+ 
+input the number of decks used
+ 6 
+ 
+enter the 'folder/filename prefix' of
+the files to be used to store application output.
+906docs/wc6d
+ 
+ 
+START: 12-12-2015 07:55:24
+
+END:   12-12-2015 08:13:07
